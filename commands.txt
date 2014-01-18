@@ -1,0 +1,1 @@
+ssh -i aws_ghost.pem ec2-user@ec2-54-236-246-23.compute-1.amazonaws.com
