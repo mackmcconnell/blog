@@ -17,7 +17,7 @@ I can take one or two at the most
 Three and I'm under the table
 Four and I'm under the host
 
-### Her Favourite Receip: Whiskey Sour
+## Her Favourite Receip: Whiskey Sour
 
 ![](//whiskey-sour.jpg)
 
