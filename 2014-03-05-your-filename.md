@@ -1,15 +1,16 @@
 # Famous Writers Who Enjoyed Drinking Whiskey
 
 Ever wondered what your favourite writer's favourite drink was? Take a wild guess... You got it, it's whiskey! 
-Today we're launching a series of posts dedicated to famous writers and their favourite cockatils receips.
+
+Today we're launching a series of posts dedicated to famous writers and their favourite cockatils recipes.
 
 ## #1 Dorothy Parker
 
 ![Dorothy Parker in her twenties](//dorothy%20parker.jpeg)
 
-Dorothy Parker was an Americain poet, short-story writer, critic, satirist and screenwriter. Her sucesses include two Academy Awards nominations, however her involvement in left-wing politics led to a Hollywood's blacklist. 
+Dorothy Parker was an Americain poet, short-story writer, critic, satirist and screenwriter. Although her sucesses include two Academy Awards nominations, her involvement in left-wing politics led her to Hollywood blacklist. 
 
-Her taste for alcohol is said to come from an unhappy childhood and several failed marriages and relansionships, but she was an independent nature and didn't seem to mind having several affaires at the same time. She deplored however, to have put "all her eggs in one bastard". 
+Her taste for alcohol is said to come from an unhappy childhood and several failed marriages  but she was an independent nature and didn't seem to mind having several affaires at the same time. She deplored however, to have put "all her eggs in one bastard", as she used to say.
 
 One of her most famoust poem speaks about her taste for whiskey and independance:
 I wish I could drink like a lady
