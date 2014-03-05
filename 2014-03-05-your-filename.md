@@ -13,12 +13,10 @@ Dorothy Parker was an Americain poet, short-story writer, critic, satirist and s
 Her taste for alcohol is said to come from an unhappy childhood and several failed marriages  but she was an independent nature and didn't seem to mind having several affaires at the same time. She deplored however, to have put "all her eggs in one bastard", as she used to say.
 
 One of her most famoust poem speaks about her taste for whiskey and independance:
-####I wish I could drink like a lady
-####I can take one or two at the most
-####Three and I'm under the table
-####Four and I'm under the host
-
-
+> I wish I could drink like a lady //
+> I can take one or two at the most //
+> Three and I'm under the table //
+> Four and I'm under the host
 
 ## Her Favourite Recipe: Whiskey Sour
 
